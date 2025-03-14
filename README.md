@@ -10,4 +10,4 @@ Proje2 exe ile çalışan son model Kirito acemi araç ekleme sistemi.
 
 
 Güncel ve alt menüleri çalışır halde ve txt dosyalarına güncel olarak overwrite atmaktadır.
-Exe niteliğine dönüşmüş olup.
+Exe niteliğine dönüşmüş olup.Son derece verimli çalışmaktadır.
