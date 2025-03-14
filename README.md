@@ -22,7 +22,7 @@ Uygulamayı başlattığınızda ana ekran gelecek.
 Kayıtlı plakaları görmek için "Plakaları Listele" seçeneğine tıklayın.
 
 
-## Kurulum
+# Kurulum
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -30,7 +30,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
    ```bash
    git clone https://github.com/kullaniciadi/arac-plaka-kaydetme.git
 
-
+#Görseller
 
 ![image](https://github.com/user-attachments/assets/3cb0fcae-196c-40f8-a541-f70c01bc43c2)
 ![image](https://github.com/user-attachments/assets/57920935-1407-492d-aeec-4b1970d8d66f)
