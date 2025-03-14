@@ -1,0 +1,5 @@
+BMW X5|SUV
+Toyota Corolla|Sedan
+Ford F-150|Pickup
+Honda Civic|Hatchback
+1|1
